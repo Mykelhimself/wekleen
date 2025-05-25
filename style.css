@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+#navcontact {
+    text-decoration: none;
+    color: #FFCF50;
+}
+
+#navbar {
+    background-color: #A4B465;
+}
+.navbar-toggler {
+    border: none;
+    color: #000;
+}
+.navbar-toggler:focus {
+    border: none;
+}
+
+.nav-link, .navbar-brand {
+    color: #fff;
+}
+.nav-link:hover {
+    color: #fff;
+}
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.headerpic {
+    background-image: url(images/headerpic.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 550px;
+    margin-bottom: 80px;
+}
+
+
+.head {
+    background: linear-gradient(#626F47, #A4B465, #FFCF50, #FEFAE0);
+    height: 500px;
+    border-radius: 20px 110px 20px 110px;
+    backdrop-filter: blur(1px);
+}
+
+#hd1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 70px;
+}
+#hdp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.fq {
+    background: #FFCF50;
+    color: #000;
+    font-size: small;
+    font-weight: 600;
+    border-radius: 50px;
+    width: 150px;
+    border: none;
+    height: 50px;
+}
+.os {
+    background: #000;
+    color: #fff;
+    font-size: small;
+    font-weight: 600;
+    border-radius: 50px;
+    width: 150px;
+    border: none;
+    height: 50px;
+}
+h2{
+    font-size: 40px;
+    font-weight: 30px;
+}
+
+svg {
+    height: 90px;
+    width: 90px;
+    color: #A4B465;
+}
+svg:hover {
+    color: #FFCF50;
+}
+#howitworks {
+    margin-bottom: 60px;
+}
+
+#whoweare {
+    background-color: #FEFAE0;
+    border-radius: 20px;
+    margin-bottom: 60px;
+
+}
+.wwah1 {
+    font-size: 65px;
+    font-weight: 800;
+    margin-bottom: 40px;
+}
+.wwap {
+    font-size: large;
+    font-weight: 300;
+}
+
+.svg2 {
+    width: 35px;
+    height: 35px;
+}
+
+#whychooseus {
+    background-color: #626F47;
+    color: #fff;
+    border-radius: 20px;
+    margin-bottom: 60px;
+}
+
+.box41 {
+    color: #000;
+    border-radius: 22px;
+    background-color: #fff;
+    width: 300px;
+    transform: rotate3d(0.7deg);
+    margin: 10px;
+    margin-bottom: 60px;
+}
+.box42 {
+    color: #000;
+    border-radius: 22px;
+    background-color: #fff;
+    width: 300px;
+    transform: rotate(-0.7deg);
+    margin: 10px;
+    margin-bottom: 60px;
+}
+
+
+.svg4 {
+    padding: 17px;
+}
+.myhr {
+    width: 90px;
+    transform: rotate(90deg);
+}
+
+#experience {
+     margin-bottom: 70px;
+}
+
+#freeestimate {
+    background: linear-gradient(#626F47, #A4B465, #FFCF50, #FEFAE0);
+    border-radius: 30px;
+}
+
+input::placeholder {
+    font-size: 17px;
+    font-weight: 300;
+}
+
+option {
+    font-size: 17px;
+    font-weight: 300;
+}
+
+#formpic, #formpicunder{
+    border-radius: 30px;
+}
+
+#myfooter {
+    background-color: #FEFAE0;
+    text-decoration: none;
+}
+#navlink2 {
+    color: #000; 
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+}
+.navlinkt {
+    font-size: small;
+    font-weight: bold;
+}
+#navlink2:hover {
+    color: #A4B465;
+}
